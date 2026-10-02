@@ -7,5 +7,4 @@ ThingSpeak Cloud Analytics: View Public Live Channel Dashboard
 📺 Project Media Demonstrations
 System Architecture Snapshot
 Hardware Connections Circuit Diagram
-
-system working explaination
+e5e6c8f7058f060cc6d8c80833a92956f3dba4ae
