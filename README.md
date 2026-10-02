@@ -114,3 +114,9 @@ void loop() {
 
   delay(2000); // Local reading interval
 }
+
+Live Execution Demonstration
+https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/assets/demo-video.mp4
+
+
+
